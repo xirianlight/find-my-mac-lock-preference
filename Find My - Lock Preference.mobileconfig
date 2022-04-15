@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisableFMMiCloudSetting</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>iCloud Find My</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.icloud.managed.535D3F78-770C-473A-ABA9-E910F4291AB8</string>
+			<key>PayloadType</key>
+			<string>com.apple.icloud.managed</string>
+			<key>PayloadUUID</key>
+			<string>796EE58A-B6A2-4A81-88AF-4055DE67136C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Find My - Lock Preference</string>
+	<key>PayloadIdentifier</key>
+	<string>FC16RM19.324DE382-BDF5-43F6-B7EC-127DCAEE6568</string>
+	<key>PayloadOrganization</key>
+	<string>Ntiva</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>
+	</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8C2F6372-4998-4E37-B809-404E18629F4D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
+
